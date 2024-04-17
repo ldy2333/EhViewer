@@ -95,7 +95,7 @@ android {
     productFlavors {
         create("default")
         create("marshmallow") {
-            minSdk = 23
+            minSdk = 22
             applicationIdSuffix = ".m"
             versionNameSuffix = "-M"
         }
